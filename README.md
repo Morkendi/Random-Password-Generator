@@ -8,7 +8,7 @@ When the user opens the app, they will see a text box and a "Generate Password" 
 
 ## Mock-Up
 
-![GIF of finished webpage](./docs/assets/../../Develop/assets/media/Password-Mockup.gif)
+![GIF of finished webpage](./docs/assets/media/Password-Mockup.gif)
 
 --- 
 
