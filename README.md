@@ -18,4 +18,4 @@ When the user opens the app, they will see a text box and a "Generate Password" 
 - Code by: Daniel Sanchez (https://github.com/Morkendi)
 
 ## Links
-- Link to GitHub Pages: https://morkendi.github.io/challenge-3/
+- Link to GitHub Pages: https://morkendi.github.io/Random-Password-Generator/
